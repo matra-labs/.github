@@ -1,11 +1,9 @@
 # MATRA Labs
 
-**Modular software for digital business processes**
+**Connected software. Clear workflows.**
 
-MATRA Labs develops modular software solutions for modern digital business operations.
+We build modular software that connects business operations, infrastructure, and automation.
 
-## Current Status
+Built to work together. Designed to keep work simple.
 
-Our products are currently under development.
-
-More information will be available soon.
+Currently in development.
